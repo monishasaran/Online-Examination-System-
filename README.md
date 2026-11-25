@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040258
+# Name: Monisha S
+# Date:28/11/26
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1246" height="907" alt="image" src="https://github.com/user-attachments/assets/3dace7b6-75ff-488d-b136-26a5c261c7c8" />
 
 
 
@@ -56,6 +57,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1247" height="890" alt="image" src="https://github.com/user-attachments/assets/338ee80b-ef49-459d-988a-d8134b8ca7c6" />
 
 
 
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1247" height="897" alt="image" src="https://github.com/user-attachments/assets/d1d37ca7-f1ae-4368-9004-21731f9acef8" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1251" height="887" alt="image" src="https://github.com/user-attachments/assets/f7a15c71-d451-4611-bcbf-b3c20bd416a8" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1235" height="896" alt="image" src="https://github.com/user-attachments/assets/18bebb63-5d18-41f9-94ac-38ad7e44d883" />
 
 
 
@@ -116,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1248" height="912" alt="image" src="https://github.com/user-attachments/assets/5d6c087e-1e2c-43e6-8fd3-fe91fbd2786f" />
 
 
 
